@@ -11,7 +11,8 @@ body {
 h1 {
     font-size: 60px;
     text-align: center;
-    color: #eb7425;
+    color: blue;
+    background-color: yellow;
 }
 
 h2 {
